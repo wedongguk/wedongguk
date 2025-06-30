@@ -1,6 +1,6 @@
 # About Me
 * Hi, I'm dongkook We. :wave:
-* 💻 Majoring **Computer Science and Engineering** in SeoulTech. 🏫 (2021.03 ~ 2025.08)
+* 💻 Majoring **Computer Science and Engineering** in SeoulTech. (2021.03 ~ 2025.08)
 * 🏠 **Darakbang**(CSE Academic club in Seoultech) 31th member (2021.03 ~ 2025.08) & 33rd, 34th Club President (2023.03 ~ 2024.12)
 * ✏️ **Tech blog** : https://weird0253.tistory.com
 
