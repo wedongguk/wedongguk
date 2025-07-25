@@ -33,7 +33,7 @@
   
 - [**Uno Game**](https://github.com/Seoultech-SE-22/Seoultech-SE-22Team) (2023-1 in 소프트웨어공학) : Pygame 라이브러리 기반으로 대전모드, 스토리모드를 포함한 UNO 게임
   
-- [**축구 경기**](https://github.com/DawnGlow/NumberBaseball_LogicCircuit) (2023-2 in 모바일프로그래밍) : 경기도 내 축구 경기장 조회 및 개인 축구 일기 작성 기능을 제공하는 안드로이드 기반 어플리케이션
+- [**축구 경기**](https://github.com/wedongguk/Chukgu_Gyeonggi) (2023-2 in 모바일프로그래밍) : 경기도 내 축구 경기장 조회 및 개인 축구 일기 작성 기능을 제공하는 안드로이드 기반 어플리케이션
 
 - [**도쿄 트립**](https://github.com/wedongguk/Tokyo_Trip) (2022-2 웹프로그래밍) : HTML5, CSS3, JS를 활용한 도쿄 여행 도우미 사이트
 
